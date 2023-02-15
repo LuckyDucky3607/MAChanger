@@ -19,3 +19,4 @@
  - `python MAChanger.py --interface {interface} --mac {new_mac}`
  - `python MAChanger.py --interface {interface} --default {to restore the default MAC}`
 
+### [+] ONLY WORKS WITH LINUX
